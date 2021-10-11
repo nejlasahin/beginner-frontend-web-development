@@ -1,4 +1,4 @@
-# İsmek Frontend Web Developmen
+# İsmek Frontend Web Development
 
 
 ## HTML Homeworks List
