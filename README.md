@@ -17,4 +17,5 @@
 | ------------- | ------------- | ------------- |
 | `hw1` | [Link](https://nejlasahin.github.io/ismek-frontend-web-development/css/hw1/index.html) | [Folder](https://github.com/nejlasahin/ismek-frontend-web-development/tree/main/css/hw1) |
 | `hw2` | [Link](https://nejlasahin.github.io/ismek-frontend-web-development/css/hw2/index.html) | [Folder](https://github.com/nejlasahin/ismek-frontend-web-development/tree/main/css/hw2) |
+| `hw3` | [Link](https://nejlasahin.github.io/ismek-frontend-web-development/css/hw3/index.html) | [Folder](https://github.com/nejlasahin/ismek-frontend-web-development/tree/main/css/hw3) |
 
