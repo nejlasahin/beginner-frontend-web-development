@@ -24,4 +24,5 @@
 | Homework Name | Application Link | Application Folder |
 | ------------- | ------------- | ------------- |
 | `hw1` | [Link](https://nejlasahin.github.io/ismek-frontend-web-development/bootstrap/hw1/index.html) | [Folder](https://github.com/nejlasahin/ismek-frontend-web-development/tree/main/bootstrap/hw1) |
+| `hw2` | [Link](https://nejlasahin.github.io/ismek-frontend-web-development/bootstrap/hw2/index.html) | [Folder](https://github.com/nejlasahin/ismek-frontend-web-development/tree/main/bootstrap/hw2) |
 
