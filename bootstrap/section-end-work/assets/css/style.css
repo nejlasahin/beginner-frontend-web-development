@@ -1,0 +1,15 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-blue {
+    background-color: #C4E2FF; 
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
