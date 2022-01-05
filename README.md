@@ -1,7 +1,7 @@
 # Beginner Frontend Web Development
 
 
-## HTML Homeworks List
+## HTML Projects List
 
 | Homework Name | Application Link | Application Folder |
 | ------------- | ------------- | ------------- |
@@ -11,7 +11,7 @@
 | `hw3` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/html/hw3/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/html/hw3) |
 
 
-## CSS Homeworks List
+## CSS Projects List
 
 | Homework Name | Application Link | Application Folder |
 | ------------- | ------------- | ------------- |
@@ -19,7 +19,7 @@
 | `hw2` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/css/hw2/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/css/hw2) |
 | `hw3` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/css/hw3/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/css/hw3) |
 
-## Bootstrap Homeworks List
+## Bootstrap Projects List
 
 | Homework Name | Application Link | Application Folder |
 | ------------- | ------------- | ------------- |
