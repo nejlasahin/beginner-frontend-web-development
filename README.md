@@ -1,4 +1,4 @@
-# Beginner Frontend Web Development [Patika.dev](https://www.patika.dev/)
+# Beginner Frontend Web Development
 
 
 ## HTML Projects List
