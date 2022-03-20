@@ -27,3 +27,12 @@
 | `hw2` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/bootstrap/hw2/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/bootstrap/hw2) |
 | `section-end-work` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/bootstrap/section-end-work/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/bootstrap/section-end-work) |
 
+## JavaScript Projects List
+
+| Project Name | Application Link | Application Folder |
+| ------------- | ------------- | ------------- |
+| `hw1` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/js/hw1/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/js/hw1) |
+| `section-end-work-1` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/js/section-end-work-1/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/js/hw2) |
+| `section-end-work-2` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/js/section-end-work-2/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/js/section-end-work) |
+| `section-end-work-3` | [Link](https://nejlasahin.github.io/beginner-frontend-web-development/js/section-end-work-3/index.html) | [Folder](https://github.com/nejlasahin/beginner-frontend-web-development/tree/main/js/section-end-work) |
+
