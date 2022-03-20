@@ -1,0 +1,30 @@
+.center{
+    text-align: center;
+}
+
+h1 {
+    font-size: 62px;
+}
+
+button {
+    border: none;
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 30px;
+    color: white;
+}
+
+button:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-red {
+    background-color: red;
+}
